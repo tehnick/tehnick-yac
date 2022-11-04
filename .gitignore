@@ -1,3 +1,4 @@
 build/
 builddir/
 *.pro.user
+*.txt.user
