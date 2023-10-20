@@ -11,6 +11,10 @@
 
 На решение отводится 4 часа.
 
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
 <hr>
 
 <div class="header">
@@ -857,19 +861,19 @@ style="font-family: monospace;">tests/Qualification-D</span></a>. Для зап�
 <tr>
 <td>1</td>
 <td>2</td>
-<td>Hallowed Be Thy Name</td>
+<td width="300px">Hallowed Be Thy Name</td>
 <td>rock</td>
 </tr>
 <tr>
 <td>1</td>
 <td>8</td>
-<td>Hallowed Be Thy Name</td>
+<td width="300px">Hallowed Be Thy Name</td>
 <td>metal</td>
 </tr>
 <tr>
 <td>1</td>
 <td>12</td>
-<td>Hallowed Be Thy Name</td>
+<td width="300px">Hallowed Be Thy Name</td>
 <td>heavy metal</td>
 </tr>
 <tr>

@@ -11,6 +11,10 @@
 
 На решение отводится 2 часа.
 
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
 <hr>
 
 
